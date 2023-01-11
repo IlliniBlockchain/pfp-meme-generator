@@ -23,8 +23,8 @@ function Auth() {
 
   return (
     <div className="Auth">
-      <div className="Auth-header">
-        <p style={{ fontSize: "64px", fontFamily: "East-Sea-Dokdo" }}>WARETA</p>
+      <div>
+        <p style={{ fontSize: "100px", fontFamily: "East Sea Dokdo" }}>WARETA</p>
       </div>
       <div className="main-body">
         <DynamicWidget
